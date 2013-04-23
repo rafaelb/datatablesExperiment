@@ -7,7 +7,7 @@ jQuery(document).ready(function(){
      "aoColumns": [
                 null,
                 null,
-                null,
+                {"sType": "percent"},
                 { "sType": "uniDate" }
             ]
  });
